@@ -69,3 +69,19 @@ POST -> {{users_url}}/register
 <br/>
 
 POST -> {{users_url}}/login
+
+
+
+<br/>
+
+http://localhost:4000/graphql
+
+
+<br/>
+
+### Полезные материалы
+
+[Data sources](https://www.apollographql.com/docs/apollo-server/data/data-sources/)
+
+
+https://github.com/webmakaka/The-Modern-GraphQL-Bootcamp-2019/tree/master/01-graphql-basics
