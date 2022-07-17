@@ -84,4 +84,13 @@ http://localhost:4000/graphql
 [Data sources](https://www.apollographql.com/docs/apollo-server/data/data-sources/)
 
 
-https://github.com/webmakaka/The-Modern-GraphQL-Bootcamp-2019/tree/master/01-graphql-basics
+<br/>
+
+### Репо студентов
+
+https://github.com/attikos/graphql-service/pull/1
+
+https://github.com/anterebol/graphQL/pull/1
+
+https://github.com/oakov/Graphql-Service/pull/1
+
